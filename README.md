@@ -18,3 +18,16 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - **FLUX.1 [pro] API**: Available through [Replicate](https://replicate.com/black-forest-labs/flux-pro)
 - **FLUX.1 [dev] Demo**: Try it out on [Replicate](https://replicate.com/black-forest-labs/flux-dev)
 - **FLUX.1 [schnell] Demo**: Accessible on [Replicate](https://replicate.com/black-forest-labs/flux-schnell)
+
+## Flux LoRA
+
+- [Flux Realism LoRA](https://fal.ai/models/fal-ai/flux-realism)
+- [Flux Koda](https://huggingface.co/alvdansen/flux-koda)
+- [FLUX-SyntheticAnime](https://huggingface.co/dataautogpt3/FLUX-SyntheticAnime)
+- [Soft Serve Anime](https://huggingface.co/alvdansen/softserve_anime)
+- [Yarn Art Flux LoRA](https://huggingface.co/linoyts/yarn_art_Flux_LoRA)
+- [Flux Watercolor](https://replicate.com/lucataco/flux-watercolor)
+- [Flux Tarot v1](https://huggingface.co/multimodalart/flux-tarot-v1)
+- [Retro Futurism Flux](https://huggingface.co/martintomov/retrofuturism-flux)
+- [Frosting Lane Flux LoRA](https://huggingface.co/alvdansen/frosting_lane_flux)
+- [Half Illustration](https://huggingface.co/davisbro/half_illustration)
