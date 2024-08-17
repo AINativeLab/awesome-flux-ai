@@ -1,0 +1,92 @@
+{
+  "examples": {
+    "Flux Realism LoRA": [
+      "https://replicate.delivery/yhqm/F4KonD0jrBqZNdSqS3ywLJisKffoBHmxbCa2hTvzxcMdNYRTA/R8_FLUX_DEV_REALISM_00001_.webp",
+      "https://replicate.delivery/yhqm/kb46gsviwTI9HplVEFTrZG4EfyVN5i0Voqvi86NCIUUHIsoJA/R8_FLUX_DEV_REALISM_00001_.webp",
+      "https://replicate.delivery/yhqm/hVGZtfdqOs1vXyIzRJTSyIwF8DYefYoDBfC0A21GvvlKShFNB/R8_FLUX_DEV_REALISM_00001_.webp",
+      "https://replicate.delivery/yhqm/RRqzNwnofelJuUCkhiicKoHWcVr9ye2Ln3fnjQEZRNnM7hFNB/R8_FLUX_DEV_REALISM_00001_.webp"
+    ],
+    "Ostris AI-Toolkit for Flux LoRA Training": [],
+    "FLUX.1-Dev LoRA explorer": [
+      "https://replicate.delivery/yhqm/FSfMPkL9qehMfpkBKHJvEUv9q6jablWPTgm9NOl23y9OknkmA/out-0.webp",
+      "https://replicate.delivery/yhqm/fYponv8YJixnZqfGOix4sK18xfKFesgYdYezGFdmO7OYoGUaC/out-1.webp",
+      "https://replicate.delivery/yhqm/kQjYxEftBh3fUUeAEPDUtswB2OkffSLGswDCX0VZbOQA62LaC/out-0.webp",
+      "https://replicate.delivery/yhqm/gNbqv7KTpeT6Nq6gIQTEHwC7JJcZW8zUiWb8AdOgupWBS0oJA/out-0.webp",
+      "https://replicate.delivery/yhqm/RlfmOJBzfRlofJ8M0bKUGQ9A01do0fedBRjvY89MKEees6KpJA/out-0.webp",
+      "https://replicate.delivery/yhqm/kwn072zHO7bvJpEfhLeS9n0Fts2f9NffSbaqAxV84uL1O5UaC/out-0.webp",
+      "https://replicate.delivery/yhqm/X3fnqjMLFftPG0oZoeA8Xp1y0lIwxrwl3QvzlkWWIXTZTklmA/out-0.webp"
+    ],
+    "Flux Koda": [
+      "https://huggingface.co/alvdansen/flux-koda/resolve/main/images/ComfyUI_00566_%20(2).png",
+      "https://huggingface.co/alvdansen/flux-koda/resolve/main/images/ComfyUI_00572_.png",
+      "https://huggingface.co/alvdansen/flux-koda/resolve/main/images/ComfyUI_00577_%20(1).png",
+      "https://huggingface.co/alvdansen/flux-koda/resolve/main/images/ComfyUI_00578_.png",
+      "https://huggingface.co/alvdansen/flux-koda/resolve/main/images/ComfyUI_00581_.png",
+      "https://huggingface.co/alvdansen/flux-koda/resolve/main/images/ComfyUI_00583_%20(1).png",
+      "https://huggingface.co/alvdansen/flux-koda/resolve/main/images/ComfyUI_00584_.png",
+      "https://huggingface.co/alvdansen/flux-koda/resolve/main/images/ComfyUI_00593_.png",
+      "https://huggingface.co/alvdansen/flux-koda/resolve/main/images/ComfyUI_00594_.png"
+    ],
+    "FLUX-SyntheticAnime": [
+      "https://huggingface.co/dataautogpt3/FLUX-SyntheticAnime/resolve/main/assets/angel.png",
+      "https://huggingface.co/dataautogpt3/FLUX-SyntheticAnime/resolve/main/assets/eyes.png",
+      "https://huggingface.co/dataautogpt3/FLUX-SyntheticAnime/resolve/main/assets/wall.png",
+      "https://huggingface.co/dataautogpt3/FLUX-SyntheticAnime/resolve/main/assets/galaxy.png"
+    ],
+    "Soft Serve Anime": [
+      "https://huggingface.co/alvdansen/softserve_anime/resolve/main/images/ComfyUI_00134_.png",
+      "https://huggingface.co/alvdansen/softserve_anime/resolve/main/images/ComfyUI_00124_.png",
+      "https://huggingface.co/alvdansen/softserve_anime/resolve/main/images/ComfyUI_00120_%20(1).png",
+      "https://huggingface.co/alvdansen/softserve_anime/resolve/main/images/ComfyUI_00097_%20(1).png",
+      "https://huggingface.co/alvdansen/softserve_anime/resolve/main/images/ComfyUI_00091_%20(1).png",
+      "https://huggingface.co/alvdansen/softserve_anime/resolve/main/images/ComfyUI_00062_.png",
+      "https://huggingface.co/alvdansen/softserve_anime/resolve/main/images/1723497911933__000003800_1.jpg"
+    ],
+    "Yarn Art Flux LoRA": [
+      "https://huggingface.co/linoyts/yarn_art_Flux_LoRA/resolve/main/yarn_art_1.png",
+      "https://huggingface.co/linoyts/yarn_art_Flux_LoRA/resolve/main/yarn_art_2.png",
+      "https://huggingface.co/linoyts/yarn_art_Flux_LoRA/resolve/main/yarn_art_3.png",
+      "https://huggingface.co/linoyts/yarn_art_Flux_LoRA/resolve/main/yarn_art_4.png",
+      "https://huggingface.co/linoyts/yarn_art_Flux_LoRA/resolve/main/yarn_art_5.png",
+      "https://huggingface.co/linoyts/yarn_art_Flux_LoRA/resolve/main/yarn_art_6.png"
+    ],
+    "Flux Tarot v1": [
+      "https://huggingface.co/multimodalart/flux-tarot-v1/resolve/main/images/7e180627edd846e899b6cd307339140d_5b2a09f0842c476b83b6bd2cb9143a52.png",
+      "https://huggingface.co/multimodalart/flux-tarot-v1/resolve/main/images/e04f78fe65274f8d8db2598693ab9300_4a6c854c99534da9a878b0ce7940e146.png",
+      "https://huggingface.co/multimodalart/flux-tarot-v1/resolve/main/images/e5f2761e5d474e6ba492d20dca0fa26f_e78f1524074b42b6ac49643ffad50ac6.png",
+      "https://huggingface.co/multimodalart/flux-tarot-v1/resolve/main/images/05732ed81b2a44b5a27a3281b298fe2a_a35e6d1091924b65bb751e2156ede234.png",
+      "https://huggingface.co/multimodalart/flux-tarot-v1/resolve/main/images/a1a8466576514faa9119fab78d7aa4a2_fba6e09c329a49a2b5fcf57ec29a8d56.png",
+      "https://huggingface.co/multimodalart/flux-tarot-v1/resolve/main/images/1c3e07c46cb341caa96fe668a4bb1777_025eb7c596fe4c2da20958b4f07418ef.png"
+    ],
+    "Retro Futurism Flux": [
+      "https://huggingface.co/martintomov/retrofuturism-flux/resolve/main/images/2e40deba-858e-454f-ae1c-d1ba2adb6a65.jpeg",
+      "https://huggingface.co/martintomov/retrofuturism-flux/resolve/main/images/c41d2aca-416c-417f-9663-2a15a59a33ac.jpeg",
+      "https://huggingface.co/martintomov/retrofuturism-flux/resolve/main/images/d5f81b5a-9f5d-4678-a1e6-fcc4507ac79a.jpeg",
+      "https://huggingface.co/martintomov/retrofuturism-flux/resolve/main/images/f18b75c0-ed45-42d8-b858-fc53f50b6e6b.jpeg",
+      "https://huggingface.co/martintomov/retrofuturism-flux/resolve/main/images/6696b9b7-c796-4210-91f4-39b484edb4c2.jpeg",
+      "https://huggingface.co/martintomov/retrofuturism-flux/resolve/main/images/0ccedb25-6fb2-4437-8bcd-85c90813b40a.jpeg"
+    ],
+    "Frosting Lane Flux LoRA": [
+      "https://huggingface.co/alvdansen/frosting_lane_flux/resolve/main/images/content%20-%202024-08-11T010011.238.jpeg",
+      "https://huggingface.co/alvdansen/frosting_lane_flux/resolve/main/images/content%20-%202024-08-11T005936.346.jpeg",
+      "https://huggingface.co/alvdansen/frosting_lane_flux/resolve/main/images/content%20-%202024-08-11T005923.217.jpeg",
+      "https://huggingface.co/alvdansen/frosting_lane_flux/resolve/main/images/content%20-%202024-08-11T005917.270.jpeg"
+    ],
+    "Half Illustration": [
+      "https://huggingface.co/davisbro/half_illustration/resolve/main/images/example1.webp",
+      "https://huggingface.co/davisbro/half_illustration/resolve/main/images/example2.webp",
+      "https://huggingface.co/davisbro/half_illustration/resolve/main/images/example3.webp",
+      "https://huggingface.co/davisbro/half_illustration/resolve/main/images/example5.webp",
+      "https://huggingface.co/davisbro/half_illustration/resolve/main/images/example7.webp"
+    ],
+    "Flux Watercolor": [
+      "https://replicate.delivery/yhqm/z7f2OBcvga07dCoJ4FeRGZCbE5PvipLhogPhEeU7BazIg5lmA/out-0.webp",
+      "https://replicate.delivery/yhqm/Dfkpe5EBvMnynUDBKfF3R636OgzA7iZ8SeKc4iBerDfYPMv0E/out-0.webp",
+      "https://replicate.delivery/yhqm/c9Bh6p0VuSoJKtNseie38Kl9piM5Fmnw49AyxfuI7e3cIzLNB/out-0.webp",
+      "https://replicate.delivery/yhqm/LOAdr8EWDd6cKFbLZ0BNbee6qjusgdN2efjlro4M9cOmKzLNB/out-0.webp",
+      "https://replicate.delivery/yhqm/9gKX8SxSwMbbCddDDT3RaTevPKn0DeUxMk8NzaUDPBY7z8STA/out-0.webp",
+      "https://replicate.delivery/yhqm/VOTinXz6gJbGMx54oqpv3Lfy2w9xm0jrHACAVIeOV4cI18STA/out-0.webp",
+      "https://replicate.delivery/yhqm/Dl0Cdv5pS3JqPRXq4SyEvSSdpBwnoCBcG5rxUGtf0tfX38STA/out-0.webp"
+    ]
+  }
+}
