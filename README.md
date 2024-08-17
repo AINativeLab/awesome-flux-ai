@@ -21,7 +21,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 
 ## Flux LoRA Collection
 
-- [Flux Realism LoRA](https://fal.ai/models/fal-ai/flux-realism)
+- [Flux Realism LoRA](https://replicate.com/xlabs-ai/flux-dev-realism)
 - [Flux Koda](https://huggingface.co/alvdansen/flux-koda)
 - [FLUX-SyntheticAnime](https://huggingface.co/dataautogpt3/FLUX-SyntheticAnime)
 - [Soft Serve Anime](https://huggingface.co/alvdansen/softserve_anime)
