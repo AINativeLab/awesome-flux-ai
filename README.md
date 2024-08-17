@@ -35,6 +35,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 ## Apps and websites
 
 - [Flux AI Image Generator](https://fluxaiimagegenerator.com)
+- [FreeFlux | Free Flux AI Image Generator - No Registration Required](https://freeflux.xyz/)
 
 ## Contribution
 
