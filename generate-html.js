@@ -1,11 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 
-// 读取 README.md 文件
 const readmePath = path.join(__dirname, 'README.md');
 const markdown = fs.readFileSync(readmePath, 'utf-8');
 
-// FAQ 数据
 const faqData = [
     {
         question: "How do I submit a new resource?",
@@ -188,7 +186,6 @@ function generateHTML(parsedSections) {
 const parsedSections = parseMarkdown(markdown);
 const html = generateHTML(parsedSections);
 
-// 将生成的 HTML 写入文件
 const outputPath = path.join(__dirname, 'index.html');
 fs.writeFileSync(outputPath, html);
 
