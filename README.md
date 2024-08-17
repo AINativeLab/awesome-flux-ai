@@ -34,6 +34,8 @@ A curated list of awesome resources, tools, libraries, and applications related 
 
 ## Apps and websites
 
+- [Flux AI Image Generator](https://fluxaiimagegenerator.com)
+
 ## Contribution
 
 Contributions are welcome! If you'd like to add a resource to this list, please follow these steps:
