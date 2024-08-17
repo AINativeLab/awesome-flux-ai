@@ -19,6 +19,9 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: '14'
+    
+    - name: Install dependencies
+      run: npm i
 
     - name: Generate HTML
       run: node generate-html.js
