@@ -121,6 +121,7 @@ function truncateString(str, num) {
 
 function createCard(link, section) {
   const domain = new URL(link.url).hostname
+  const path = new URL(link.url).pathname.split('/')[1]
   const truncatedTitle = truncateString(link.title, 40)
   const examples = config.examples[link.title] || []
   const exampleImages = examples
@@ -158,7 +159,7 @@ function createCard(link, section) {
             <h3 class="text-xl font-medium leading-tight mb-1" title="${
               link.title
             }">${truncatedTitle}</h3>
-            <span class="inline-block text-gray-500 text-sm">${domain}</span>
+            <span class="inline-block text-gray-500 text-sm">${domain}/${path}</span>
           </div>
         </div>
       </div>
