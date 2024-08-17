@@ -31,3 +31,14 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Retro Futurism Flux](https://huggingface.co/martintomov/retrofuturism-flux)
 - [Frosting Lane Flux LoRA](https://huggingface.co/alvdansen/frosting_lane_flux)
 - [Half Illustration](https://huggingface.co/davisbro/half_illustration)
+
+## Apps and websites
+
+## Contribution
+
+Contributions are welcome! If you'd like to add a resource to this list, please follow these steps:
+
+1. Fork this repository.
+2. Add your resource to the end of the list in the README.md file.
+3. Ensure your addition follows the existing format: `- [Resource Name](URL)`
+4. Create a pull request with a brief description of the resource you're adding.
