@@ -19,7 +19,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - **FLUX.1 [dev] Demo**: Try it out on [Replicate](https://replicate.com/black-forest-labs/flux-dev)
 - **FLUX.1 [schnell] Demo**: Accessible on [Replicate](https://replicate.com/black-forest-labs/flux-schnell)
 
-## Flux LoRA
+## Flux LoRA Collection
 
 - [Flux Realism LoRA](https://fal.ai/models/fal-ai/flux-realism)
 - [Flux Koda](https://huggingface.co/alvdansen/flux-koda)
@@ -31,6 +31,11 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Retro Futurism Flux](https://huggingface.co/martintomov/retrofuturism-flux)
 - [Frosting Lane Flux LoRA](https://huggingface.co/alvdansen/frosting_lane_flux)
 - [Half Illustration](https://huggingface.co/davisbro/half_illustration)
+
+## LoRA training
+
+- [Ostris AI-Toolkit for Flux LoRA Training](https://replicate.com/lucataco/ai-toolkit/train)
+- [FLUX.1-Dev LoRA explorer](https://replicate.com/lucataco/flux-dev-lora)
 
 ## Apps and websites
 
