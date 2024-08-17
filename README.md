@@ -41,6 +41,10 @@ A curated list of awesome resources, tools, libraries, and applications related 
 
 - [ControlNet Canny for FLUX.1-dev](https://replicate.com/xlabs-ai/flux-controlnet)
 
+## Projects
+
+- [FLUX.1-inpaint](https://huggingface.co/spaces/SkalskiP/FLUX.1-inpaint)
+
 ## Apps and websites
 
 - [Flux AI Image Generator](https://fluxaiimagegenerator.com)

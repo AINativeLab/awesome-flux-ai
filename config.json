@@ -94,6 +94,7 @@
       "https://replicate.delivery/yhqm/7nBfzL18BoUUCa2tZZiHza2eFdQmWqGRfLvFxWF2tPeRb4CNB/controlnet_result_tmpdecshyypviking.jpg",
       "https://replicate.delivery/yhqm/Aw1fvPxT0HR5ciuVNfZG19NaDj54OPqIyIv9sjnveNF5ichmA/controlnet_result_tmp30xb5q2rreplicate-prediction-6qez7xbgcdrm60ch5zyt1ytgv4.webp",
       "https://replicate.delivery/yhqm/01AB4HhcTNo0NNiIed2Fo9pXVuM8Pifw5DgJZhIJZ7OoZuQTA/controlnet_result_tmpuzk_w0k1mona-lisa.jpg"
-    ]
+    ],
+    "FLUX.1-inpaint": []
   }
 }
