@@ -119,6 +119,10 @@ function generateHTML(parsedSections) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Awesome Flux AI Resources</title>
+    <meta name="description" content="Explore curated Flux AI resources, including LoRA models, apps, and tools. Find the best open-source text-to-image AI models and stay updated with the latest Flux AI technologies.">
+    <link rel="apple-touch-icon" sizes="512x512" href="/favicon-512x512.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512x512.png">
+    <link rel="canonical" href="https://www.awesomefluxai.com/" />
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
