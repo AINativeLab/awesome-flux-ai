@@ -231,7 +231,7 @@ function generateHTML(parsedSections) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Awesome Flux AI Resources</title>
+    <title>Awesome Flux AI</title>
     <meta name="description" content="Explore curated Flux AI resources, including LoRA models, apps, and tools. Find the best open-source text-to-image AI models and stay updated with the latest Flux AI technologies.">
     <link rel="apple-touch-icon" sizes="512x512" href="/favicon-512x512.png">
     <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512x512.png">
@@ -261,10 +261,10 @@ function generateHTML(parsedSections) {
     <header class="bg-white shadow-sm">
         <div class="container mx-auto px-6 py-4 flex justify-between items-center">
             <div>
-                <h1 class="text-3xl font-bold">Awesome <span class="text-blue-600">Flux AI</span> Resources</h1>
-                <p class="mt-2 text-gray-600">A curated list of awesome resources for Flux AI technology</p>
+                <h1 class="text-3xl font-bold">Awesome <span class="text-[#2E8B57]">Flux AI</span></h1>
+                <p class="mt-2 text-gray-600">A curated list of awesome resources for Flux AI</p>
             </div>
-            <a href="https://github.com/AINativeLab/awesome-flux-ai" target="_blank" rel="noopener noreferrer" class="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors duration-200">
+            <a href="https://github.com/AINativeLab/awesome-flux-ai" target="_blank" rel="noopener" class="bg-[#2E8B57] text-white px-4 py-2 rounded-lg hover:opacity-80 transition-colors duration-200">
                 Submit
             </a>
         </div>
