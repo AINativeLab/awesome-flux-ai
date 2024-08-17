@@ -31,9 +31,10 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Retro Futurism Flux](https://huggingface.co/martintomov/retrofuturism-flux)
 - [Frosting Lane Flux LoRA](https://huggingface.co/alvdansen/frosting_lane_flux)
 - [Half Illustration](https://huggingface.co/davisbro/half_illustration)
-- [Flux AI Image Generator](https://fluxaiimagegenerator.com)
 
 ## Apps and websites
+
+- [Flux AI Image Generator](https://fluxaiimagegenerator.com)
 
 ## Contribution
 
