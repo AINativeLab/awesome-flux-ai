@@ -37,6 +37,10 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Ostris AI-Toolkit for Flux LoRA Training](https://replicate.com/lucataco/ai-toolkit/train)
 - [FLUX.1-Dev LoRA explorer](https://replicate.com/lucataco/flux-dev-lora)
 
+## Controlnet models
+
+- [ControlNet Canny for FLUX.1-dev](https://replicate.com/xlabs-ai/flux-controlnet)
+
 ## Apps and websites
 
 - [Flux AI Image Generator](https://fluxaiimagegenerator.com)
