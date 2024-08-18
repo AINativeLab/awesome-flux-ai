@@ -295,6 +295,9 @@ function generateHTML(parsedSections) {
                           <a href="https://woy.ai/" title="Woy AI Tools Directory" class="text-gray-600 hover:text-gray-900">Woy AI Tools</a>
                         </li>
                         <li class="mx-4 mb-2">
+                          <a href="https://aiwith.me" title="Discover thousands of AI Tools" class="text-gray-600 hover:text-gray-900">AIWITH.ME</a>
+                        </li>
+                        <li class="mx-4 mb-2">
                             <a href="https://www.gptshunter.com" title="GPTs Hunter Link" class="text-gray-600 hover:text-gray-900">GPTs Hunter</a>
                         </li>
                     </ul>
