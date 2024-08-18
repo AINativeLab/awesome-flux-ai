@@ -54,6 +54,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 ## Controlnet models
 
 - [ControlNet Canny for FLUX.1-dev](https://replicate.com/xlabs-ai/flux-controlnet)
+- [FLUX.1-dev-Controlnet-Union-alpha](https://huggingface.co/InstantX/FLUX.1-dev-Controlnet-Union-alpha)
 
 ## Projects
 
