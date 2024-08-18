@@ -163,7 +163,7 @@ function createCard(link, section) {
             <h3 class="text-xl font-medium leading-tight mb-1" title="${
               link.title
             }">${truncatedTitle}</h3>
-            <span class="inline-block text-gray-500 text-sm">${domain}${path ? ('/' + path) : ''}</span>
+            <span class="inline-block text-gray-500 text-sm break-all">${domain}${path ? ('/' + path) : ''}</span>
           </div>
         </div>
       </div>
