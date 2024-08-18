@@ -95,6 +95,45 @@
       "https://replicate.delivery/yhqm/Aw1fvPxT0HR5ciuVNfZG19NaDj54OPqIyIv9sjnveNF5ichmA/controlnet_result_tmp30xb5q2rreplicate-prediction-6qez7xbgcdrm60ch5zyt1ytgv4.webp",
       "https://replicate.delivery/yhqm/01AB4HhcTNo0NNiIed2Fo9pXVuM8Pifw5DgJZhIJZ7OoZuQTA/controlnet_result_tmpuzk_w0k1mona-lisa.jpg"
     ],
-    "FLUX.1-inpaint": []
+    "FLUX.1-inpaint": [],
+    "Plushy World": [
+      "https://huggingface.co/alvdansen/plushy-world-flux/resolve/main/images/ComfyUI_00664_.png",
+      "https://huggingface.co/alvdansen/plushy-world-flux/resolve/main/images/ComfyUI_00666_%20(1).png",
+      "https://huggingface.co/alvdansen/plushy-world-flux/resolve/main/images/ComfyUI_00669_%20(1).png",
+      "https://huggingface.co/alvdansen/plushy-world-flux/resolve/main/images/ComfyUI_00671_.png",
+      "https://huggingface.co/alvdansen/plushy-world-flux/resolve/main/images/ComfyUI_00673_%20(1).png",
+      "https://huggingface.co/alvdansen/plushy-world-flux/resolve/main/images/ComfyUI_00678_%20(1).png"
+    ],
+    "Haunted Linework": [
+      "https://huggingface.co/alvdansen/haunted_linework_flux/resolve/main/images/ComfyUI_00739_.png",
+      "https://huggingface.co/alvdansen/haunted_linework_flux/resolve/main/images/ComfyUI_00740_.png",
+      "https://huggingface.co/alvdansen/haunted_linework_flux/resolve/main/images/ComfyUI_00742_.png",
+      "https://huggingface.co/alvdansen/haunted_linework_flux/resolve/main/images/ComfyUI_00744_.png",
+      "https://huggingface.co/alvdansen/haunted_linework_flux/resolve/main/images/ComfyUI_00749_.png",
+      "https://huggingface.co/alvdansen/haunted_linework_flux/resolve/main/images/ComfyUI_00751_.png",
+      "https://huggingface.co/alvdansen/haunted_linework_flux/resolve/main/images/ComfyUI_00752_.png",
+      "https://huggingface.co/alvdansen/haunted_linework_flux/resolve/main/images/ComfyUI_00755_.png"
+    ],
+    "The Point": [
+      "https://huggingface.co/alvdansen/the-point-flux/resolve/main/images/ComfyUI_00689_.png",
+      "https://huggingface.co/alvdansen/the-point-flux/resolve/main/images/ComfyUI_00685_.png",
+      "https://huggingface.co/alvdansen/the-point-flux/resolve/main/images/ComfyUI_00694_%20(2).png",
+      "https://huggingface.co/alvdansen/the-point-flux/resolve/main/images/ComfyUI_00696_.png",
+      "https://huggingface.co/alvdansen/the-point-flux/resolve/main/images/ComfyUI_00698_%20(1).png",
+      "https://huggingface.co/alvdansen/the-point-flux/resolve/main/images/ComfyUI_00703_.png",
+      "https://huggingface.co/alvdansen/the-point-flux/resolve/main/images/ComfyUI_00706_.png"
+    ],
+    "Flux Film Foto": [
+      "https://huggingface.co/alvdansen/flux_film_foto/resolve/main/images/ComfyUI_00240_.png",
+      "https://huggingface.co/alvdansen/flux_film_foto/resolve/main/images/ComfyUI_00236_.png",
+      "https://huggingface.co/alvdansen/flux_film_foto/resolve/main/images/ComfyUI_00230_.png",
+      "https://huggingface.co/alvdansen/flux_film_foto/resolve/main/images/ComfyUI_00242_%20(1).png",
+      "https://huggingface.co/alvdansen/flux_film_foto/resolve/main/images/ComfyUI_00244_.png",
+      "https://huggingface.co/alvdansen/flux_film_foto/resolve/main/images/ComfyUI_00247_.png",
+      "https://huggingface.co/alvdansen/flux_film_foto/resolve/main/images/ComfyUI_00253_%20(1).png"
+    ],
+    "flux1-dev-bnb-nf4": [],
+    "flux-fp8": [],
+    "FLUX.1-dev-gguf": []
   }
 }
