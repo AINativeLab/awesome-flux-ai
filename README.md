@@ -21,6 +21,10 @@ A curated list of awesome resources, tools, libraries, and applications related 
 
 ## Flux LoRA Collection
 
+- [Plushy World](https://huggingface.co/alvdansen/plushy-world-flux)
+- [Haunted Linework](https://huggingface.co/alvdansen/haunted_linework_flux)
+- [The Point](https://huggingface.co/alvdansen/the-point-flux)
+- [Flux Film Foto](https://huggingface.co/alvdansen/flux_film_foto)
 - [Flux Realism LoRA](https://replicate.com/xlabs-ai/flux-dev-realism)
 - [Flux Koda](https://huggingface.co/alvdansen/flux-koda)
 - [FLUX-SyntheticAnime](https://huggingface.co/dataautogpt3/FLUX-SyntheticAnime)
@@ -36,6 +40,12 @@ A curated list of awesome resources, tools, libraries, and applications related 
 
 - [Ostris AI-Toolkit for Flux LoRA Training](https://replicate.com/lucataco/ai-toolkit/train)
 - [FLUX.1-Dev LoRA explorer](https://replicate.com/lucataco/flux-dev-lora)
+
+## Quantized models
+
+- [flux1-dev-bnb-nf4](https://huggingface.co/lllyasviel/flux1-dev-bnb-nf4)
+- [flux-fp8](https://huggingface.co/Kijai/flux-fp8)
+- [FLUX.1-dev-gguf](https://huggingface.co/city96/FLUX.1-dev-gguf)
 
 ## Controlnet models
 
