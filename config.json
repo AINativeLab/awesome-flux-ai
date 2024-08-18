@@ -134,6 +134,33 @@
     ],
     "flux1-dev-bnb-nf4": [],
     "flux-fp8": [],
-    "FLUX.1-dev-gguf": []
+    "FLUX.1-dev-gguf": [],
+    "Archfey Anime": [
+      "https://huggingface.co/alvdansen/archfey_anime/resolve/main/images/ComfyUI_06588_.png",
+      "https://huggingface.co/alvdansen/archfey_anime/resolve/main/images/ComfyUI_06586_.png",
+      "https://huggingface.co/alvdansen/archfey_anime/resolve/main/images/ComfyUI_06584_.png",
+      "https://huggingface.co/alvdansen/archfey_anime/resolve/main/images/ComfyUI_06581_.png",
+      "https://huggingface.co/alvdansen/archfey_anime/resolve/main/images/ComfyUI_06572_.png",
+      "https://huggingface.co/alvdansen/archfey_anime/resolve/main/images/ComfyUI_06548_.png"
+    ],
+    "m3lt": [
+      "https://huggingface.co/alvdansen/m3lt/resolve/main/images/864a6450-ac03-4d39-90b4-3b0341f25e61.jpeg",
+      "https://huggingface.co/alvdansen/m3lt/resolve/main/images/6FCAA4EAD56D2174AAC61700CB56189F530BF577D51A61F4F4F9AEBC00B71680.jpeg",
+      "https://huggingface.co/alvdansen/m3lt/resolve/main/images/0D2873F503526DD59F6A0B0262E5C0589F3939D64A9FA4854B5BF93B897E1EA8.jpeg",
+      "https://huggingface.co/alvdansen/m3lt/resolve/main/images/61D17FC065C43E2F567B09B21CFF72428DD6DA7C9753A004E21CD17DBDD41350.jpeg",
+      "https://huggingface.co/alvdansen/m3lt/resolve/main/images/8E29CBB4576BE46DEB311F2B37E7A6BF93E29EF1850D8EF228A3159B82545B7C.jpeg",
+      "https://huggingface.co/alvdansen/m3lt/resolve/main/images/913F5C282CC690443AA7E1ADCE3EE3E0988B81FB005519FFDA3F94D019FD00C5.jpeg",
+      "https://huggingface.co/alvdansen/m3lt/resolve/main/images/84B428ADF8663E313F5199B96385362FD4B41BEE9BD6AFE2AEDCF71BCDEE00B6.jpeg",
+      "https://huggingface.co/alvdansen/m3lt/resolve/main/images/6054F627F25DCE4A017208D76B6318E2013150755120C9AF294C8165B6FE4CDE.jpeg",
+      "https://huggingface.co/alvdansen/m3lt/resolve/main/images/44BC1F66C1F9E6854B704FA926CD7742BDC7891CC60A6E1F924C46DE8AA007B6.jpeg"
+    ],
+    "Midsommar Cartoon": [
+      "https://huggingface.co/alvdansen/midsommarcartoon/resolve/main/images/ComfyUI_02460_.png",
+      "https://huggingface.co/alvdansen/midsommarcartoon/resolve/main/images/ComfyUI_02458_.png",
+      "https://huggingface.co/alvdansen/midsommarcartoon/resolve/main/images/ComfyUI_02396_.png",
+      "https://huggingface.co/alvdansen/midsommarcartoon/resolve/main/images/ComfyUI_02392_.png",
+      "https://huggingface.co/alvdansen/midsommarcartoon/resolve/main/images/ComfyUI_02388_.png",
+      "https://huggingface.co/alvdansen/midsommarcartoon/resolve/main/images/ComfyUI_02333_.png"
+    ]
   }
 }
