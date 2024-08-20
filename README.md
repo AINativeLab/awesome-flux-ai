@@ -21,6 +21,8 @@ A curated list of awesome resources, tools, libraries, and applications related 
 
 ## Flux LoRA Collection
 
+- [Flux Monkey Island](https://replicate.com/andreasjansson/flux-monkey-island)
+- [Pen Lettering Flux Lora](https://replicate.com/agusdor/pen_lettering_flux_lora)
 - [80s Cyberpunk](https://replicate.com/fofr/flux-80s-cyberpunk)
 - [Plushy World](https://huggingface.co/alvdansen/plushy-world-flux)
 - [Haunted Linework](https://huggingface.co/alvdansen/haunted_linework_flux)
