@@ -181,6 +181,26 @@
       "https://replicate.delivery/yhqm/fKDOnkhexRpaaU1TOWXEBIEUkwRac1GZfR0F9RYs2oBbkfNNB/out-1.png",
       "https://replicate.delivery/yhqm/ffSSLYfVyVVdiIRRWVgiVuBy0TygCN96OkkFmnjeDs3xoAONB/out-1.png"
     ],
-    "FLUX.1-dev-Controlnet-Union-alpha": []
+    "FLUX.1-dev-Controlnet-Union-alpha": [],
+    "Sonny Anime Fixed (Flux Dev)": [
+      "https://huggingface.co/alvdansen/sonny-anime-fixed/resolve/main/images/2YdKgP8iFDlQOkOT_UdTM_618efde27c2e469fb6901aa3cdb7781c.png",
+      "https://huggingface.co/alvdansen/sonny-anime-fixed/resolve/main/images/OvpSq_oh4uzuQpgzb7SqE_8834795b886949f8998de674401c6879.png",
+      "https://huggingface.co/alvdansen/sonny-anime-fixed/resolve/main/images/T6Es-tWGWY7zv99Ps-CsC_d13d3b126e3243208dce293d54662037.png",
+      "https://huggingface.co/alvdansen/sonny-anime-fixed/resolve/main/images/g2P_Z7B8YzzJq-hX1S_Ky_3e1847a5aaf94c6baabb47c4fa367e6f.png",
+      "https://huggingface.co/alvdansen/sonny-anime-fixed/resolve/main/images/IhfUnD9Wf2sqHpKnTuNaK_29c9437bd0594404825d2afba24c7489.png",
+      "https://huggingface.co/alvdansen/sonny-anime-fixed/resolve/main/images/QfWbZpmcf6cLy4r5Mar4n_6a85f5f6ae9f4a788f1e85087fe4527e.png",
+      "https://huggingface.co/alvdansen/sonny-anime-fixed/resolve/main/images/uqAuIMqA6Z7mvPkHg4qJE_f4c3cbe64e0349e7b946d02adeacdca3.png",
+      "https://huggingface.co/alvdansen/sonny-anime-fixed/resolve/main/images/29Jaqg8PDwDJKH3RGezGN_7a2aab7043eb40c3b2483860d9000e37.png",
+      "https://huggingface.co/alvdansen/sonny-anime-fixed/resolve/main/images/yHLPgQUCu6knr1wvjajNZ_b34f211660124020ae77377fff2970ef.png"
+    ],
+    "Sonny Anime Flex (Flux Dev)": [
+      "https://huggingface.co/alvdansen/sonny-anime-flex/resolve/main/images/oH3_pMI4sHH78ep1Ts1NE_cd325176eda94c9ea826e9f780e14f76.png",
+      "https://huggingface.co/alvdansen/sonny-anime-flex/resolve/main/images/iwR47KRPMr4FHvOw8MGgn_e35c500e7ba04b578f8d8156d4ce1954.png",
+      "https://huggingface.co/alvdansen/sonny-anime-flex/resolve/main/images/GLuFasaLyEoBaAUQMREVf_20b5cf5b178a404296978e360a9ac435.png",
+      "https://huggingface.co/alvdansen/sonny-anime-flex/resolve/main/images/l3LgGsAydCPyN4rzZJ6L6_209067c1c0ea469f907f0f1f887252dd.png",
+      "https://huggingface.co/alvdansen/sonny-anime-flex/resolve/main/images/p6sGE_Hh_qCwexqg0I5rt_4db6dd66bb3946ca821642089a580c8d.png",
+      "https://huggingface.co/alvdansen/sonny-anime-flex/resolve/main/images/fwjmAF9gys3Qw2nDwWRDO_94b9c15fbc6c4583a62f39a5cc600c71.png",
+      "https://huggingface.co/alvdansen/sonny-anime-flex/resolve/main/images/emGPosDE3_3HdVhS1lT5P_22704e4d663c4a2cbd04136baa0a23a1.png"
+    ]
   }
 }
