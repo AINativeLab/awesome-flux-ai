@@ -21,6 +21,8 @@ A curated list of awesome resources, tools, libraries, and applications related 
 
 ## Flux LoRA Collection
 
+- [Sonny Anime Fixed (Flux Dev)](https://huggingface.co/alvdansen/sonny-anime-fixed)
+- [Sonny Anime Flex (Flux Dev)](https://huggingface.co/alvdansen/sonny-anime-flex)
 - [Flux Monkey Island](https://replicate.com/andreasjansson/flux-monkey-island)
 - [Pen Lettering Flux Lora](https://replicate.com/agusdor/pen_lettering_flux_lora)
 - [80s Cyberpunk](https://replicate.com/fofr/flux-80s-cyberpunk)
