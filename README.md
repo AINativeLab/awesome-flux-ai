@@ -73,6 +73,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Free AI FLUX Image Generator](https://aiflux.cc/)
 - [Flux Image AI](https://www.fluximageai.com)
 - [Free Flux Image Searching and Generation](https://flux-image.com/)
+- [Free Flux AI Image Generator with Flux AI Art](https://fluxaiart.com/)
 
 ## Contribution
 
