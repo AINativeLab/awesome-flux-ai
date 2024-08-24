@@ -49,6 +49,11 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Ostris AI-Toolkit for Flux LoRA Training](https://replicate.com/lucataco/ai-toolkit/train)
 - [FLUX.1-Dev LoRA explorer](https://replicate.com/lucataco/flux-dev-lora)
 
+
+## Fine-tune models
+
+- [flux-tolkien-handwriting](https://replicate.com/fofr/flux-tolkien-handwriting)
+
 ## Quantized models
 
 - [flux1-dev-bnb-nf4](https://huggingface.co/lllyasviel/flux1-dev-bnb-nf4)
