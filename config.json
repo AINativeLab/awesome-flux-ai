@@ -203,9 +203,27 @@
       "https://huggingface.co/alvdansen/sonny-anime-flex/resolve/main/images/emGPosDE3_3HdVhS1lT5P_22704e4d663c4a2cbd04136baa0a23a1.png"
     ],
     "flux-tolkien-handwriting": [
-      "https://replicate.delivery/yhqm/njNMJe5pX9QxXyXuZhusRoMFT2E6f0Qf45u22MvfnUxq5CYNB/out-0.webp",
-      "https://replicate.delivery/yhqm/ScVR1PFx2G5TEpogiIvCVfSdOu6GpdBxvDGtzB6yIzZyaArJA/out-3.webp",
-      "https://replicate.delivery/yhqm/3bnWgfdkXiwKMyLneNiCG2zCWrZxqE2T0E89deafbwXNoEYNB/out-3.webp"
+      "https://tjzk.replicate.delivery/models_models_featured_image/cb4203e5-9ece-42e7-b326-98ff3fa35c3a/Replicate_Prediction_15.webp"
+    ],
+    "Hyper FLUX 16-step LoRA by ByteDance": [
+      "https://replicate.delivery/yhqm/5GpNe98OrxThfUBPGhoc69ZCkYcm57UHpZ1m8xDiCded58tmA/out-0.webp",
+      "https://replicate.delivery/yhqm/JPB0VZMg5VaFDdf4PHUVoeBmYDpnY4gsepMCGGtmYrfg55bNB/out-0.webp",
+      "https://replicate.delivery/yhqm/y9DNddmHgx5FJxEX6bgbNAUZxcqrAsYPPXKf0tlfCNZQf8tmA/out-0.webp",
+      "https://replicate.delivery/yhqm/lgaMpCgSgdamCNoJEtykeCUSTvSfPwfrCmo7mdPHHC60C9tmA/out-0.webp",
+      "https://replicate.delivery/yhqm/cTYPsKFcdL70LduhXI8yCbH8CHyLd2Jgstg5KRJELC1gov1E/out-0.webp",
+      "https://replicate.delivery/yhqm/gsZl97XJk760P9BDCh0PH4iC5qEBQjypGJsfIiGwnIAURfWTA/out-0.webp",
+      "https://replicate.delivery/yhqm/nV8QOV4fD02wISeTQKVDBo29fOY7afZuATZddetZDtH3b03aC/out-0.webp",
+      "https://replicate.delivery/yhqm/rZtfSe83meX19o0why4PV0tgLDR1Vx1umO73dYGTteTbR6bNB/out-0.webp"
+    ],
+    "Hyper FLUX 8-step LoRA by ByteDance": [
+      "https://replicate.delivery/yhqm/f1PicfS0qWgxYEKV7RnWi80LHq25A4wP3cvppMOpi3mPDetmA/out-0.webp",
+      "https://replicate.delivery/yhqm/pCeuo0Ba3hWjeULmu2JbLKAg6fVkrVC7Nqwt2fVMqhcMP4bNB/out-0.webp",
+      "https://replicate.delivery/yhqm/PUHlpfdEUkXBK6oeaXxjzf5kI2ed8Pe2SQ89VV9NCW0wix3aC/out-0.webp",
+      "https://replicate.delivery/yhqm/fOfk1GamGvsGjkeFtRiEn7HHaYMQAwiUGGP9BWrAAwOAD9tmA/out-0.webp",
+      "https://replicate.delivery/yhqm/LDtue1ppkhykCiNVRF7fk3DOcK6djDfuhqhXGAMTmkIaE9tmA/out-0.webp",
+      "https://replicate.delivery/yhqm/s0nk82b62IJ4C5pQ9imBXMQsJ7sqfWbLM0dtKTeJU8UfO9tmA/out-0.webp",
+      "https://replicate.delivery/yhqm/ak845cGRsB6xGJBghnJJTTHb4570mf95iwm2yKPflXrvoetmA/out-0.webp",
+      "https://replicate.delivery/yhqm/gyZUn7S53RrsMpk6rRxbSzA8NO9G83XOV1fUgXL8QlGUfetmA/out-0.webp"
     ]
   }
 }

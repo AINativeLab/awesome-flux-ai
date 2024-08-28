@@ -67,6 +67,8 @@ A curated list of awesome resources, tools, libraries, and applications related 
 
 ## Projects
 
+- [Hyper FLUX 16-step LoRA by ByteDance](https://replicate.com/lucataco/hyper-flux-16step)
+- [Hyper FLUX 8-step LoRA by ByteDance](https://replicate.com/lucataco/hyper-flux-8step)
 - [FLUX.1-inpaint](https://huggingface.co/spaces/SkalskiP/FLUX.1-inpaint)
 
 ## Apps and websites
