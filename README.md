@@ -1,4 +1,5 @@
 # Awesome Flux AI
+
 A curated list of awesome resources, tools, libraries, and applications related to Flux AI technology. This repository aims to be a comprehensive collection for developers, researchers, and enthusiasts interested in Flux AI.
 
 ## About Flux AI
@@ -8,7 +9,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 ## Models
 
 | Model            | Open-Source | Commercial Use |
-|------------------|-------------|----------------|
+| ---------------- | ----------- | -------------- |
 | FLUX.1 [pro]     | No          | Yes            |
 | FLUX.1 [dev]     | Yes         | No             |
 | FLUX.1 [schnell] | Yes         | Yes            |
@@ -49,7 +50,6 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Ostris AI-Toolkit for Flux LoRA Training](https://replicate.com/lucataco/ai-toolkit/train)
 - [FLUX.1-Dev LoRA explorer](https://replicate.com/lucataco/flux-dev-lora)
 
-
 ## Fine-tune models
 
 - [flux-tolkien-handwriting](https://replicate.com/fofr/flux-tolkien-handwriting)
@@ -81,6 +81,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Flux Image AI](https://www.fluximageai.com)
 - [Free Flux Image Searching and Generation](https://flux-image.com/)
 - [Free Flux AI Image Generator with Flux AI Art](https://fluxaiart.com/)
+- [Fluxaigen | Cutting-edge Flux AI Image Generator](http://fluxaigen.com/)
 
 ## Contribution
 
