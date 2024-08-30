@@ -21,6 +21,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 
 ## Flux LoRA Collection
 
+- [Blended Realistic Illustration](https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration)
 - [Sonny Anime Fixed (Flux Dev)](https://huggingface.co/alvdansen/sonny-anime-fixed)
 - [Sonny Anime Flex (Flux Dev)](https://huggingface.co/alvdansen/sonny-anime-flex)
 - [Flux Monkey Island](https://replicate.com/andreasjansson/flux-monkey-island)

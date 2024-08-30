@@ -201,6 +201,49 @@
       "https://huggingface.co/alvdansen/sonny-anime-flex/resolve/main/images/p6sGE_Hh_qCwexqg0I5rt_4db6dd66bb3946ca821642089a580c8d.png",
       "https://huggingface.co/alvdansen/sonny-anime-flex/resolve/main/images/fwjmAF9gys3Qw2nDwWRDO_94b9c15fbc6c4583a62f39a5cc600c71.png",
       "https://huggingface.co/alvdansen/sonny-anime-flex/resolve/main/images/emGPosDE3_3HdVhS1lT5P_22704e4d663c4a2cbd04136baa0a23a1.png"
+    ],
+    "Blended Realistic Illustration": [
+      "https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration/resolve/main/images/example1.png",
+      "https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration/resolve/main/images/example2.png",
+      "https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration/resolve/main/images/example3.png",
+      "https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration/resolve/main/images/example4.png",
+      "https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration/resolve/main/images/example5.png",
+      "https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration/resolve/main/images/example6.png",
+      "https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration/resolve/main/images/example7.png",
+      "https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration/resolve/main/images/example8.png",
+      "https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration/resolve/main/images/example9.png",
+      "https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration/resolve/main/images/example10.png",
+      "https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration/resolve/main/images/example11.png",
+      "https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration/resolve/main/images/example12.png",
+      "https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration/resolve/main/images/example13.png",
+      "https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration/resolve/main/images/example14.png",
+      "https://huggingface.co/Shakker-Labs/FLUX.1-dev-LoRA-blended-realistic-illustration/resolve/main/images/example15.png"
+    ],
+    "flux-tolkien-handwriting": [
+      "https://tjzk.replicate.delivery/models_models_featured_image/4fb8f9f2-df60-4d91-b35a-5420a6c97c70/replicate-prediction-_gHDWNlF.webp"
+    ],
+    "Hyper FLUX 16-step LoRA by ByteDance": [
+      "https://replicate.delivery/yhqm/bE5wR4jfe0ogE0uO3NeDfvYGyWtZnmel7qgccgbLfIOYetnrJA/out-0.webp",
+      "https://replicate.delivery/yhqm/zF6DmqXBZezZb6cLvYW1chBhSeeTMx5MzXKQPyaSYziN0ecNB/out-0.webp",
+      "https://replicate.delivery/yhqm/Ol86orSX2xrOJBzSjPYJkH7DHWadqgYRVTag9hGauAiY2z1E/out-0.webp",
+      "https://replicate.delivery/yhqm/QoChDbgAlMKdC1FRR2NroAdF9Bs07n1OiAlBSB6Jl9Ud2z1E/out-0.webp",
+      "https://replicate.delivery/yhqm/G10TxoTe1g3aOq6yVMdlboNMTW2jPb2ZBAhR3S0WRf1naPXTA/out-0.webp",
+      "https://replicate.delivery/yhqm/YLx82ZeLm7TNICB6UwZ0NxY4ZeNnjaFjanInIFP88xpwaPXTA/out-0.webp",
+      "https://replicate.delivery/yhqm/jfOSCLX5Zn18DSsBwWbIRuE7Xyjyz87t5ZehFI4ICS24aPXTA/out-0.webp",
+      "https://replicate.delivery/yhqm/zgbIYrJmeO0EPaa0WbS3h8L0LnwXiTvpq8bPDKJvNoVhtnrJA/out-0.webp",
+      "https://replicate.delivery/yhqm/EskTyiOtAmJeCS56NR5hhH8jMxM6kuQ5ghj28bT03iZstnrJA/out-0.webp"
+    ],
+    "Hyper FLUX 8-step LoRA by ByteDance": [
+      "https://replicate.delivery/yhqm/HuYfKUaenctQAEHvBDDQvMfrVfJUneeY3fg0qlb2bn3vyvmrJA/out-0.webp",
+      "https://replicate.delivery/yhqm/6KW4NQ0a76YRN97sld6g7leMay1nCADHeahrqBQO6sv7faumA/out-0.webp",
+      "https://replicate.delivery/yhqm/isLWkALuhpYCEJCBU4ewrrsL9mIOYVb6E3cRx6Fr0eiOgNXTA/out-0.webp",
+      "https://replicate.delivery/yhqm/fOusW1dlcASOLKa0vz51Yg0QMuYmDmfR9yDMyCfMmH56BbumA/out-0.webp",
+      "https://replicate.delivery/yhqm/YtStsDhczrqrBRHL6z7eqjHDVF5p1DtewrT2bU46GXYbgNXTA/out-0.webp",
+      "https://replicate.delivery/yhqm/KxlRe9pmOl1maiFqspSJj89QlQ0VNKNeJ1PNfHWjSbkHBbumA/out-0.webp",
+      "https://replicate.delivery/yhqm/rTOdg0HGU26BFVPOFIPWlfpGTlNsADk0rP9NuwSM0lfKhNXTA/out-0.webp",
+      "https://replicate.delivery/yhqm/ioDD5WRXBaJWFxe0TmezSznjGaSWhIJOsf5nphndXku7DbumA/out-0.webp",
+      "https://replicate.delivery/yhqm/zZVjtRDeiR1eRE5S17sgfS5snMTZzLc4fDhfvYdkzU7zQt5aC/out-0.webp",
+      "https://replicate.delivery/yhqm/9grRIy7gOvKfa6tFXPn6IrPgizrT1hVLt9YebflFDAPhTcumA/out-0.webp"
     ]
   }
 }
