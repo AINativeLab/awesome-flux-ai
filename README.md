@@ -85,6 +85,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Free Flux1 AI Image Generator](https://flux1.art/)
 - [Fluxaigen | Cutting-edge Flux AI Image Generator](https://fluxaigen.com/)
 - [Flux Image Generator](https://fluximagegenerator.co/)
+
 ## Contribution
 
 Contributions are welcome! If you'd like to add a resource to this list, please follow these steps:
