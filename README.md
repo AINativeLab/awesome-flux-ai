@@ -71,6 +71,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Hyper FLUX 16-step LoRA by ByteDance](https://replicate.com/lucataco/hyper-flux-16step)
 - [Hyper FLUX 8-step LoRA by ByteDance](https://replicate.com/lucataco/hyper-flux-8step)
 - [FLUX.1-inpaint](https://huggingface.co/spaces/SkalskiP/FLUX.1-inpaint)
+- [Flux FP8 Matmul Implementation with FastAPI](https://github.com/aredden/flux-fp8-api)
 
 ## Apps and websites
 
