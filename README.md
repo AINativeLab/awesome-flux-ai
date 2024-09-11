@@ -1,6 +1,14 @@
 # Awesome Flux AI
 A curated list of awesome resources, tools, libraries, and applications related to Flux AI technology. This repository aims to be a comprehensive collection for developers, researchers, and enthusiasts interested in Flux AI.
 
+## Sponsor
+
+<p align="center">
+  <a target="_blank" href="https://302.ai/?ref=gptshunter&block=github">
+    <img alt="GPTsHunter" src="https://i.v2ex.co/Y6u0hDa6.jpeg">
+  </a>
+</p>
+
 ## About Flux AI
 
 [Flux AI](https://github.com/black-forest-labs/flux) is a suite of open-source text-to-image AI models developed by Black Forest Labs. The platform aims to advance state-of-the-art generative deep learning models for media, pushing the boundaries of creativity, efficiency, and diversity.
