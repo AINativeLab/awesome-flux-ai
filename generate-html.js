@@ -292,6 +292,9 @@ function generateHTML(parsedSections) {
                 <div class="w-full">
                     <ul class="flex flex-wrap justify-center">
                         <li class="mx-4 mb-2">
+                          <a href="https://emojispark.com/" title="AI Emoji Finder" class="text-gray-600 hover:text-gray-900">Emoji Spark</a>
+                        </li>
+                        <li class="mx-4 mb-2">
                           <a href="https://woy.ai/" title="Woy AI Tools Directory" class="text-gray-600 hover:text-gray-900">Woy AI Tools</a>
                         </li>
                         <li class="mx-4 mb-2">
