@@ -53,6 +53,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 
 ## Fine-tune models
 
+- [Film Portrait](https://huggingface.co/Shakker-Labs/FilmPortrait)
 - [flux-tolkien-handwriting](https://replicate.com/fofr/flux-tolkien-handwriting)
 
 ## Quantized models
