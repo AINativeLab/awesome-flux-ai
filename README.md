@@ -96,6 +96,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Fluxaigen | Cutting-edge Flux AI Image Generator](https://fluxaigen.com/)
 - [Flux Image Generator](https://fluximagegenerator.co/)
 - [Flux AI Image Generator](https://flux-ai.top/)
+- [Flux Image AI Generator - empowered by chatgpt](https://fluximage-ai.com/)
 
 ## Contribution
 
