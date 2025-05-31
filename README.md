@@ -98,6 +98,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Flux AI Image Generator](https://flux-ai.top/)
 - [Flux Image AI Generator - empowered by chatgpt](https://fluximage-ai.com/)
 - [Fast Flux AI Image Generator](https://fastfluxai.org/)
+- [Free Flux AI Image Generator](https://fluxdev.net/)
 
 ## Contribution
 
