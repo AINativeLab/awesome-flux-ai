@@ -99,6 +99,12 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Flux Image AI Generator - empowered by chatgpt](https://fluximage-ai.com/)
 - [Fast Flux AI Image Generator](https://fastfluxai.org/)
 - [Free Flux AI Image Generator](https://fluxdev.net/)
+- [free AI age detector](https://www.howold.io)
+- [advanced AI image generator and editor](https://www.inanobanana.com)
+- [SAT Score Calculator](https://www.satscorecalculator.net)
+- [creating collages and annotations](https://www.imagecollage.net)
+- [crop images into various shapes](https://www.cropimages.org)
+- [powerful online PDF toolkit](https://www.pdfup.org)
 
 ## Contribution
 
