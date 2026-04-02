@@ -81,6 +81,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Hyper FLUX 8-step LoRA by ByteDance](https://replicate.com/lucataco/hyper-flux-8step)
 - [FLUX.1-inpaint](https://huggingface.co/spaces/SkalskiP/FLUX.1-inpaint)
 - [Flux FP8 Matmul Implementation with FastAPI](https://github.com/aredden/flux-fp8-api)
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 ## Apps and websites
 
