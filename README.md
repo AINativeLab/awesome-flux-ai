@@ -75,6 +75,10 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [ControlNet Canny for FLUX.1-dev](https://replicate.com/xlabs-ai/flux-controlnet)
 - [FLUX.1-dev-Controlnet-Union-alpha](https://huggingface.co/InstantX/FLUX.1-dev-Controlnet-Union-alpha)
 
+## Prompt Templates
+
+- [Flux Prompt Gallery](https://github.com/kagura-agent/flux-prompt-gallery) — Free, production-tested prompt templates for Flux (anime portraits, wallpapers, 3D icons, product photography & more). All examples generated locally on RTX 3060.
+
 ## Projects
 
 - [Hyper FLUX 16-step LoRA by ByteDance](https://replicate.com/lucataco/hyper-flux-16step)
