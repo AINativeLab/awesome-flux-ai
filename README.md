@@ -52,6 +52,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Retro Futurism Flux](https://huggingface.co/martintomov/retrofuturism-flux)
 - [Frosting Lane Flux LoRA](https://huggingface.co/alvdansen/frosting_lane_flux)
 - [Half Illustration](https://huggingface.co/davisbro/half_illustration)
+- [Bald Converter (FLUX.1 Kontext LoRA, hair removal / bald portraits)](https://huggingface.co/deepmancer/bald_konverter)
 
 ## LoRA training
 
