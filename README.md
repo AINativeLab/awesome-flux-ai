@@ -26,6 +26,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - **FLUX.1 [pro] API**: Available through [Replicate](https://replicate.com/black-forest-labs/flux-pro)
 - **FLUX.1 [dev] Demo**: Try it out on [Replicate](https://replicate.com/black-forest-labs/flux-dev)
 - **FLUX.1 [schnell] Demo**: Accessible on [Replicate](https://replicate.com/black-forest-labs/flux-schnell)
+- **Photoshoot**: AI commercial photography with Flux-powered workflows — turn product and fashion reference photos into studio-grade visuals — [photoshoot.app](https://photoshoot.app)
 
 ## Flux LoRA Collection
 
