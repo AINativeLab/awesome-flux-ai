@@ -99,6 +99,7 @@ A curated list of awesome resources, tools, libraries, and applications related 
 - [Flux Image AI Generator - empowered by chatgpt](https://fluximage-ai.com/)
 - [Fast Flux AI Image Generator](https://fastfluxai.org/)
 - [Free Flux AI Image Generator](https://fluxdev.net/)
+- [FreeGen AI](https://freegenai.app/) — Online FLUX Schnell generator with daily free no-login generations, built-in photo editor/upscaler/background remover, and $9.90/400 one-time credit packs
 
 ## Contribution
 
